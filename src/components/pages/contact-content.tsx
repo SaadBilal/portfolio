@@ -21,6 +21,7 @@ import {
   CheckCircle2,
   Loader2,
   ExternalLink,
+  Phone,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { profile } from "@/lib/data/profile";
@@ -200,6 +201,10 @@ export function ContactContent() {
                   <div className="flex items-center gap-2 text-muted-foreground">
                     <Clock className="h-3.5 w-3.5 text-primary" />
                     <span>{profile.timezone}</span>
+                  </div>
+                  <div className="flex items-center gap-2 text-muted-foreground">
+                    <Phone className="h-3.5 w-3.5 text-primary" />
+                    <span>{profile.phone}</span>
                   </div>
                 </div>
               </motion.div>

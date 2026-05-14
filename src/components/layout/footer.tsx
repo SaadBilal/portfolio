@@ -7,6 +7,7 @@ import {
   MapPin,
   ArrowUpRight,
   Heart,
+  PhoneCall,
 } from "lucide-react";
 import { profile } from "@/lib/data/profile";
 
@@ -36,6 +37,7 @@ const socialLinks = [
   { icon: Linkedin, href: profile.linkedin, label: "LinkedIn" },
   { icon: Twitter, href: profile.twitter, label: "Twitter" },
   { icon: Mail, href: `mailto:${profile.email}`, label: "Email" },
+  { icon: PhoneCall, href: `tel:${profile.phone}`, label: "Phone"},
 ];
 
 export function Footer() {
