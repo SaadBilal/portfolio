@@ -20,7 +20,7 @@ const jetbrainsMono = JetBrains_Mono({
   display: "swap",
 });
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://saadbilal.dev";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://www.linkedin.com/in/saadbilal/";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),

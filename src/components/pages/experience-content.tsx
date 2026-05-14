@@ -45,7 +45,7 @@ export function ExperienceContent() {
               <span className="gradient-text">Experience</span>
             </h1>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              7+ years of building enterprise systems, leading engineering teams,
+              10+ years of building enterprise systems, leading engineering teams,
               and delivering measurable business impact across multiple industries.
             </p>
           </motion.div>
