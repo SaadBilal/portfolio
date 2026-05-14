@@ -23,7 +23,7 @@ const botResponses: Record<string, string> = {
   default: "Thanks for your message! I'm Saad's AI assistant. For detailed inquiries, please use the contact form or reach out directly at saad@saadbilal.dev.",
   "tech stack": "I specialize in Python (FastAPI, Django), React/Next.js, AWS cloud architecture, Docker, Kubernetes, PostgreSQL, and more. Check out the Tech Stack page for the full breakdown!",
   "available": "Yes! I'm currently open to senior remote roles, consulting engagements, and technical leadership opportunities. Use the Contact page to get in touch or schedule a call via Calendly.",
-  "experience": "I have 7+ years of experience building enterprise systems. Currently at YouAttest as a Senior Full-Stack Engineer & Solutions Architect. Check the Experience page for the full timeline.",
+  "experience": "I have 10+ years of experience building enterprise systems. Currently at YouAttest as a Senior Full-Stack Engineer & Solutions Architect. Check the Experience page for the full timeline.",
   "projects": "I've built YouAttest (enterprise IGA platform), Swipbox (IoT logistics), Tabibi (telemedicine), NewsMix (AI news), and more. Visit the Projects page for detailed case studies!",
   "hire": "Absolutely! I'm available for senior remote roles, consulting, and technical leadership. Head to the Contact page or schedule a call at calendly.com/saadbilal.",
 };

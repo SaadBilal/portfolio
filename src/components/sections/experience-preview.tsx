@@ -32,7 +32,7 @@ export function ExperiencePreview() {
             </span>
           </div>
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
-            7+ Years of{" "}
+            10+ Years of{" "}
             <span className="gradient-text">Engineering Excellence</span>
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">

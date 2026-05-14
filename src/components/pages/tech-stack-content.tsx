@@ -128,7 +128,7 @@ export function TechStackContent() {
               <span className="gradient-text">Expertise</span>
             </h1>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              A comprehensive view of my technical toolkit — built over 7+ years
+              A comprehensive view of my technical toolkit — built over 10+ years
               of engineering enterprise systems, cloud infrastructure, and
               full-stack applications.
             </p>

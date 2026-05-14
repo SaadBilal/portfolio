@@ -48,7 +48,7 @@ export function TechShowcase() {
             <span className="gradient-text">Production Systems</span> With
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            A curated stack refined over 7+ years — chosen for reliability,
+            A curated stack refined over 10+ years — chosen for reliability,
             performance, and scalability at enterprise scale.
           </p>
         </motion.div>

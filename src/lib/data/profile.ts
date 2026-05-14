@@ -4,7 +4,7 @@ export const profile = {
   tagline: "Solutions Architect & AWS Cloud Expert",
   headline: "Building Scalable SaaS, Cloud & AI Solutions",
   subheadline:
-    "7+ years engineering enterprise systems that handle millions of users. Specializing in cloud-native architecture, distributed systems, and AI integration.",
+    "10+ years engineering enterprise systems that handle millions of users. Specializing in cloud-native architecture, distributed systems, and AI integration.",
   location: "Pakistan 🇵🇰",
   timezone: "PKT (UTC+5)",
   availability: "Open to Remote Opportunities",
@@ -17,13 +17,13 @@ export const profile = {
   twitter: "https://twitter.com/saadbilal_dev",
   calendly: "https://calendly.com/iamsaadbilal",
   resumeUrl: "/Saad-Bilal-Resume.pdf",
-  bio: `I'm a Senior Full-Stack Engineer and Solutions Architect with 7+ years of experience designing and building enterprise-grade systems. I specialize in cloud-native architectures on AWS, scalable backend systems with Python and Node.js, and modern full-stack applications.
+  bio: `I'm a Senior Full-Stack Engineer and Solutions Architect with 10+ years of experience designing and building enterprise-grade systems. I specialize in cloud-native architectures on AWS, scalable backend systems with Python and Node.js, and modern full-stack applications.
 
 Currently at YouAttest, I architect identity governance solutions that serve enterprise clients globally. My work spans distributed systems, microservices, AI integration, and DevOps automation — always with a focus on reliability, performance, and security.
 
 I'm passionate about solving complex engineering challenges, mentoring engineers, and building systems that scale. I'm available for senior remote roles, technical consulting, and startup collaborations.`,
   shortBio:
-    "Senior Full-Stack Engineer & Solutions Architect. 7+ years building enterprise systems, cloud infrastructure, and AI-powered applications.",
+    "Senior Full-Stack Engineer & Solutions Architect. 10+ years building enterprise systems, cloud infrastructure, and AI-powered applications.",
   philosophy:
     "Great software is invisible — it just works, scales, and evolves. I build systems that teams can maintain, businesses can rely on, and users never think about.",
   funFacts: [
@@ -42,7 +42,7 @@ I'm passionate about solving complex engineering challenges, mentoring engineers
 };
 
 export const metrics = [
-  { value: "7+", label: "Years Experience", suffix: "" },
+  { value: "10+", label: "Years Experience", suffix: "" },
   { value: "50+", label: "Projects Delivered", suffix: "" },
   { value: "1M+", label: "Users Served", suffix: "" },
   { value: "40%", label: "Avg Cost Reduction", suffix: "" },

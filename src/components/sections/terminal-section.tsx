@@ -11,7 +11,7 @@ const lines = [
   { delay: 800, type: "prompt", text: "cat profile.json" },
   { delay: 1200, type: "json", text: `{
   "role": "Senior Full-Stack Engineer",
-  "experience": "7+ years",
+  "experience": "10+ years",
   "location": "Pakistan 🇵🇰",
   "remote": true,
   "specialties": [
