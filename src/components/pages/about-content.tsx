@@ -142,7 +142,7 @@ export function AboutContent() {
             >
               {[
                 { icon: MapPin, label: "Location", value: profile.location },
-                { icon: Calendar, label: "Experience", value: "7+ Years" },
+                { icon: Calendar, label: "Experience", value: "10+ Years" },
                 { icon: Globe, label: "Work Style", value: "Remote Global" },
               ].map((item) => (
                 <div

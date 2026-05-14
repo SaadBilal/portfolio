@@ -15,7 +15,7 @@ export const profile = {
   linkedin: "https://linkedin.com/in/saadbilal",
   stackoverflow: "https://stackoverflow.com/users/saadbilal",
   twitter: "https://twitter.com/saadbilal_dev",
-  calendly: "https://calendly.com/saadbilal",
+  calendly: "https://calendly.com/iamsaadbilal",
   resumeUrl: "/Saad-Bilal-Resume.pdf",
   bio: `I'm a Senior Full-Stack Engineer and Solutions Architect with 7+ years of experience designing and building enterprise-grade systems. I specialize in cloud-native architectures on AWS, scalable backend systems with Python and Node.js, and modern full-stack applications.
 
