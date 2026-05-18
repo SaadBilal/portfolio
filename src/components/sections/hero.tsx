@@ -18,10 +18,12 @@ import { profile } from "@/lib/data/profile";
 
 const roles = [
   "Senior Full-Stack Engineer",
+  "LLMs, RAG, Agentic Architectures Designer",
+  "Building Production-Grade AI Platforms",
   "Solutions Architect",
   "AWS Cloud Expert",
   "Backend Specialist",
-  "Technical Leader",
+  "Technical Leader"
 ];
 
 function TypingText({ texts }: { texts: string[] }) {
