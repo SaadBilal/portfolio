@@ -12,7 +12,7 @@ const lines = [
   { delay: 1200, type: "json", text: `{
   "role": "Senior Full-Stack Engineer",
   "experience": "10+ years",
-  "location": "Pakistan 🇵🇰",
+  "location": "Pakistan 🇵🇰 | Germany 🇩🇪",
   "remote": true,
   "specialties": [
     "Cloud Architecture",

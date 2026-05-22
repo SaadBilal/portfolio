@@ -84,6 +84,7 @@ export function CTASection() {
             {[
               { value: "24h", label: "Response Time" },
               { value: "PKT", label: "Timezone" },
+              { value: "CET / CEST", label: "Timezone" },
               { value: "Remote", label: "Work Style" },
             ].map((stat) => (
               <div key={stat.label} className="text-center">

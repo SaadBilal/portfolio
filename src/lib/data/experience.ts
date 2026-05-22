@@ -126,7 +126,7 @@ export const experiences: Experience[] = [
     company: "Mindworks",
     role: "Full-Stack Engineer",
     type: "Full-time",
-    location: "Lahore, Pakistan",
+    location: "Islamabad, Pakistan",
     remote: false,
     startDate: "2019-01",
     endDate: "2020-05",

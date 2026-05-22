@@ -5,8 +5,8 @@ export const profile = {
   headline: "Building Scalable SaaS, Cloud & AI Solutions",
   subheadline:
     "10+ years engineering enterprise systems that handle millions of users. Specializing in cloud-native architecture, distributed systems, and AI integration.",
-  location: "Pakistan 🇵🇰",
-  timezone: "PKT (UTC+5)",
+  location: "Pakistan 🇵🇰 | Germany 🇩🇪",
+  timezone: "PKT (UTC+5) | CET / CEST (GMT +2)",
   availability: "Open to Remote Opportunities",
   email: "iamsaadbilal@gmail.com",
   phone: "+92-302-6735620",
@@ -36,6 +36,7 @@ I'm passionate about solving complex engineering challenges, mentoring engineers
   ],
   languages: [
     { name: "English", level: "Professional", flag: "🇬🇧" },
+    { name: "German", level: "Elementary", flag: "🇩🇪" },
     { name: "Urdu", level: "Native", flag: "🇵🇰" },
     { name: "Punjabi", level: "Native", flag: "🇵🇰" },
   ],

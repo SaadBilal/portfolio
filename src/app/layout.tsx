@@ -38,6 +38,7 @@ export const metadata: Metadata = {
     "FastAPI Expert",
     "Django Developer",
     "Cloud Architect Pakistan",
+    "Cloud Architect Germany",
     "Remote Software Engineer",
     "Backend Engineer",
     "Node.js Developer",
@@ -140,7 +141,7 @@ export default function RootLayout({
               jobTitle: "Senior Full-Stack Engineer & Solutions Architect",
               address: {
                 "@type": "PostalAddress",
-                addressCountry: "PK",
+                addressCountry: "PK | DE",
               },
               knowsAbout: [
                 "Python", "FastAPI", "Django", "AWS", "Cloud Architecture",
