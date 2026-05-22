@@ -80,11 +80,11 @@ export function CTASection() {
           </div>
 
           {/* Quick stats */}
-          <div className="grid grid-cols-3 gap-6 max-w-lg mx-auto">
+          <div className="grid grid-cols-4 gap-6 max-w-lg mx-auto">
             {[
               { value: "24h", label: "Response Time" },
               { value: "PKT", label: "Timezone" },
-              { value: "CET / CEST", label: "Timezone" },
+              { value: "CET", label: "Timezone" },
               { value: "Remote", label: "Work Style" },
             ].map((stat) => (
               <div key={stat.label} className="text-center">

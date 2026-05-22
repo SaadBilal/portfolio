@@ -22,6 +22,7 @@ import {
   Loader2,
   ExternalLink,
   Phone,
+  MessageCircle,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { profile } from "@/lib/data/profile";
@@ -205,6 +206,10 @@ export function ContactContent() {
                   <div className="flex items-center gap-2 text-muted-foreground">
                     <Phone className="h-3.5 w-3.5 text-primary" />
                     <span>{profile.phone}</span>
+                  </div>
+                  <div className="flex items-center gap-2 text-muted-foreground">
+                    <MessageCircle className="h-3.5 w-3.5 text-primary" />
+                    <span>{profile.WhatsApp}</span>
                   </div>
                 </div>
               </motion.div>
